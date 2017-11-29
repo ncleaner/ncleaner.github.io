@@ -1,5 +1,5 @@
 {
-  "ver":"20170329",
+  "ver":"20171129",
   "config":[
     {
       "type":65535,
@@ -30,7 +30,6 @@
         "com.tencent.mm",
         "com.tencent.qqlite",
         "com.tencent.pb",
-        "com.facebook.orca",
         "com.snapchat.android",
         "com.whatsapp",
         "com.bbm",
@@ -45,7 +44,8 @@
         "com.samsung.android.app.scrollcapture",
         "com.yahoo.mobile.client.android.mail",
         "jp.naver.line.android",
-        "ru.mail.mailapp"
+        "ru.mail.mailapp",
+        "fm.castbox.audiobook.radio.podcast"
       ]
     }
   ]

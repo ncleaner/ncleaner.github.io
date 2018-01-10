@@ -10,6 +10,7 @@
         "com.android.mms",
         "com.android.deskclock",
         "com.android.email",
+        "com.android.incallui",
         "com.android.calendar",
         "com.android.settings",
         "com.android.systemui",
